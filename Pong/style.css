@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+button {
+    border-radius: 15px;
+    border-color: lightblue;
+    color: white;
+    background-color: black;
+    font-family: monospace;
+    text-align: center;
+ }
+
+h1 {
+    font-family: monospace;
+    background-color: black;
+    color: white;
+    width: 2in;
+    text-align: center;
+}
+
+div {
+    border-radius: 15px;
+    margin:auto;
+    background-color: black;
+}
